@@ -1,0 +1,19 @@
+# Machine Learning & Large Model Files
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# IDE & System Files
+.vscode/
+.DS_Store
+Thumbs.db
